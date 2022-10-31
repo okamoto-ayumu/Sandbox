@@ -5,3 +5,4 @@ GitHubの練習場所
 ## 20221028-updateReadmeブランチ作成
 ## Java開発用資材の初期登録
 ## Fooクラスを追加
+## Barクラスを追加
